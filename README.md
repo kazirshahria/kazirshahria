@@ -8,10 +8,10 @@ My name is Kazi Shahria. I am a third-year undergrad at Baruch College.
 - Majoring in Statistics and Quantitative Modeling 
 - Minoring in CS
 - Loves playing chess
-- Always doing something random in Python 🤷‍♂️
+- Always doing something random in Python 🫢
 
 
-## Projects Completed 📜
+## Projects Completed 🤔
 
 [YouGov Client Project](https://github.com/kaziis/YouGov_)
 
