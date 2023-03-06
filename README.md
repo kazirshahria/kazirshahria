@@ -11,7 +11,7 @@ My name is Kazi Shahria. I am a third-year undergrad at Baruch College.
 - Always doing something random in Python
 
 
-## Projects Completed 🗎
+## Projects Completed 🗂️
 
 [YouGov Client Project](https://github.com/kaziis/YouGov_)
 
