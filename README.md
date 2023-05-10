@@ -13,8 +13,8 @@ My name is Kazi Shahria. I am a third-year undergrad at Baruch College.
 
 ## Projects Completed 🗂️
 
-[YouGov Client Project](https://github.com/kaziis/YouGov_)
-[Movie Recommender System](https://github.com/kaziis/Movie_System)
+1. [YouGov Client Project](https://github.com/kaziis/YouGov_)
+2. [Movie Recommender System](https://github.com/kaziis/Movie_System)
 
 
 
