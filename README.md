@@ -12,6 +12,6 @@ My name is Kazi Shahria. I am a third-year undergraduate student at Baruch Colle
 ## Projects Completed 🗂️
 1. [YouGov Client Project](https://github.com/kaziis/YouGov_)
 2. [Movie Recommender System](https://github.com/kaziis/Movie_System)
-3. [Statistical Analysis on Purchasing Behavior]([https://github.com/kaziis/Movie_System](https://github.com/kaziis/R_Programming/blob/main/Research%20Paper.pdf))
+3. [Statistical Analysis on Purchasing Behavior](https://github.com/kaziis/R_Programming/blob/main/Research%20Paper.pdf)
 ## Links 🔗
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazishahria/)
