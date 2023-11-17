@@ -4,9 +4,9 @@ My name is Kazi Shahria. I am an undergraduate student at Baruch College. I have
 
 ## Quick Facts About Me:
 - Majoring in Statistics and Quantitative Modeling and minoring in CS
-- Loves playing chess
+- Love playing chess
 - Cleveland Cavaliers is my favorite basketball team
-- Cat > Dog
+- Love Cats
 
 ## Projects Completed 🗂️
 1. [YouGov Client Project](https://github.com/kaziis/yougov-client-project/blob/main/deck/Activation%20Deck.pdf)
