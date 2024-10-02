@@ -1,30 +1,16 @@
-# Kazi R. Shahria
+# Hey... 👋
 
-## About me
-Hello! My name is Kazi. Throughout my four years of attending Baruch College, I found my passion in the field of data science. This is a field of continuous learning, open-minded curiosity, and a supporting community. Because of this field I have discovered new interests in probability, statistics, programming, and mathematics.
+I'm **Kazi** – a passionate sports enthusiast who loves both watching and playing! Whether it's analyzing data or playing a quick pick-up game, I like to keep my brain and body active.
 
-I have acquired internships in the last 5 years, in fields of investment banking, entertainment, and market research. If you're curious, here are the names:
+- 🍎 Graduated from **Baruch College** with a Bachelor's in **Statistics and Quantitative Modeling** (Minor in Computer Science)
+- 💪 High-rated freelancer, specializing in **data analytics**, **data engineering**, and **machine learning**
+- 🤓 Part-time nerd, full-time learner – always curious and exploring new things
 
-- Morgan Stanley
-- Bank of America
-- Publicis Media (Starcom)
-- YouGov Sports
+**Shoot me a message!**
 
-I am extremely grateful I was able to gain these experiences and build a technical background during my academic studies. I understand myself better as a person, and I am more motivated to pursue a career in machine learning. I don't want to leave out the fact that this has also allowed me to log into LinkedIn and read posts of people finding the latest AI technology or freaking out about the next revolutionary thing that will replace humans...
+---
 
-I am currently adding projects to my portfolio, not just any project, but topics I am interested in and most proud of. I am also looking for full-time opportunities. Feel free to reach out to me, I am always happy to meet people and have a chat!
-
-## Hobbies
-
-| Sports     | Games               |
-| :--------  | :-------            |
-| Basketball | Chess               |
-| Boxing     | Solving Rubik Cubes |
-| MMA        |                     |
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kazishahria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kazishahria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kazishahria" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kazi's LinkedIn" height="30" width="40" /></a>
 </p>
