@@ -1,31 +1,15 @@
-# Hello 👋
+# 😶‍🌫️ About me
 
-I'm **Kazi** – a passionate sports enthusiast who loves both watching and playing! Whether it's analyzing data or playing a quick pick-up game, I like to keep my brain and body active.
+My name is Kazi (Kaa-zee). I am an experienced Python developer with over 5 years of experience in data engineering, data analytics, and machine learning.
 
-- 🍎 Graduated from **Baruch College** with a Bachelor's in **Statistics and Quantitative Modeling** and minored in Computer Science  
-- 💪 High-rated freelancer, specializing in **data analytics**, **data engineering**, and **machine learning**  
-- 🤓 Part-time nerd, full-time learner – always curious and exploring new things  
+My passion is in data. I enjoy cleaning, analyzing, and modeling data. I am also a statistics person who does creative things with numbers.
 
-💡 I enjoy solving business problems with data-driven insights and automation. I'm especially interested in **sports analytics**, **financial data**, and **real-world machine learning applications**.
+I am a problem-solver and detail-oriented individual who appreciates collaborating with others.
 
-## 🚀 Skills & Tech Stack:
-- 💻 **Languages:** Python, SQL  
-- 📊 **Data Tools:** Pandas, NumPy, Tableau, Power BI
-- ☁️ **Cloud & Databases:** AWS, GCP, PostgreSQL, MySQL
-- 🏗 **Other:** Web Scraping, API Development, Automation 
+Finally, I am into puzzle games, fitness, and sports. I used to dream about becoming a pilot but now I wonder about the data involved.
 
----
+Currently, I am searching for full-time opportunities near NY.
 
-### 📢 Open to New Opportunities!
-Currently, I am looking for full-time **Data Analyst** opportunities in the New York and New Jersey area. Feel free to message me on **LinkedIn** or **email**.  
+Feel free to check out my portfolio. I am sure you'll learn something new. If you'd like to collaborate, provide feedback, or message me then you can reach me via [email](mailto:kazirshahria@gmail.com).
 
-📧 **Email:** [kazirshahria@gmail.com](mailto:kazirshahria@gmail.com)
-
----
-
-<h3 align="left">📬 Let's Connect:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kazishahria" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kazi's LinkedIn" height="30" width="40" />
-</a>
-</p>
+Thank you for your time and attention. Good luck in this world :)
