@@ -12,4 +12,4 @@ Currently, I am searching for full-time opportunities near NY.
 
 Feel free to check out my portfolio. I am sure you'll learn something new. If you'd like to collaborate, provide feedback, or message me then you can reach me via [email](mailto:kazirshahria@gmail.com).
 
-Thank you for your time and attention. Good luck in this world :)
+Thank you for your time and attention. Good luck in this world :smile:
